@@ -29,7 +29,6 @@ $b$ is the respective bias for each gate
 		- $forgetGate \times c_x + inputGate \times cellGate$
 	- Hidden State
 		- $outputGate \times \tanh(cellState)$
-  - 
 ## Customizable Features
 - Embedding Dimension
 - Number of Hidden Nodes
