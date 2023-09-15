@@ -1,10 +1,8 @@
 # Custom-LSTM-Network
 An LSTM network built from scratch using PyTorch. Trained using a spam dataset resulting in a 87.6% accuracy in the validation set. Data was tokenized an split into training and validation sets using 75/25 split.
 ## Key Formulas
-$x_t$ is the sequence at current timestep
-
-$W$ and $U$ are the respective weights of the input and recurrent connections for each gate
-
+$x_t$ is the sequence at current timestep</br>
+$W$ and $U$ are the respective weights of the input and recurrent connections for each gate</br>
 $b$ is the respective bias for each gate
 
 - Gates
